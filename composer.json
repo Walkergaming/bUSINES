@@ -1,5 +1,5 @@
 {
-  "name": "business-web-project",
+  "name": "business/web-project",
   "description": "A simple web application for business purposes.",
   "type": "project",
   "require": {
